@@ -1,1 +1,0 @@
-Projekt demonstracyjny dla GitHub Pages. Zamień dane kontaktowe !!! na własne.
